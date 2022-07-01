@@ -42,5 +42,5 @@
   <img align="center" alt="Woocommerce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg">
   
   <!-- align image on the right -->
-  <img align="right" alt="JM-softwares" height="80" src="https://i.postimg.cc/ZqPG1HJP/JM-logo.png">
+  <img align="right" alt="JM-softwares" height="50" src="https://jmsoftwares.com.br/wp-content/uploads/2021/04/LogoMakr-8HCHEv.png">
 </div>
