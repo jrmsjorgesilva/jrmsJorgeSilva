@@ -1,16 +1,26 @@
-### Hi there 👋
 
-<!--
-**jrmsjorgesilva/jrmsJorgeSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+    "👨‍": "Jorge R. Machado da Silva",
+    "👨‍💻": "Web Developer",
+    "🗓️": "34 anos",
+    "🧑🏿‍🚀🚀": [
+        "HTML",
+        "CSS",
+        "SCSS",
+        "Javascript",
+        "PHP",
+        "React JS",
+        "Gulp Js",
+        "Wordpress"
+    ],
+}
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+(function bye() {
+    return 'sempre';
+})();
+
+```
