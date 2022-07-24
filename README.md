@@ -11,7 +11,6 @@
         "Javascript",
         "PHP",
         "React JS",
-        "Gulp Js",
         "Wordpress"
     ],
 }
