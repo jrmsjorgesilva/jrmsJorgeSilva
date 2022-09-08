@@ -1,7 +1,7 @@
 
 ```json
 {
-    "👨‍": "Jorge R. Machado da Silva",
+    "👨‍": "Jorge Roberto Machado da Silva",
     "👨‍💻": "Web Developer",
     "🗓️": "34 anos",
     "🧑🏿‍🚀🚀": [
@@ -13,6 +13,8 @@
         "React JS",
         "Wordpress"
     ],
+    "isWorking": true,
+    "isOpenToProposals": true,
 }
 
 ```
