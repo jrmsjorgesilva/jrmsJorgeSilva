@@ -21,7 +21,7 @@
 
 ```javascript
 (function bye() {
-    return 'sempre';
+    return console.log('sempre');
 })();
 
 ```
