@@ -20,8 +20,8 @@
 ```
 
 ```javascript
-(function bye() {
-    return console.log('sempre');
+(function Welcome() {
+    return console.log('Any idea about the next project?');
 })();
 
 ```
