@@ -14,7 +14,7 @@
         "Wordpress"
     ],
     "isWorking": true,
-    "isOpenToProposals": true,
+    "isOpenToNewOpportunities": true,
 }
 
 ```
