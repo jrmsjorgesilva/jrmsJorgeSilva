@@ -10,6 +10,7 @@
         "Javascript",
         "React JS",
         "PHP",
+        "Laravel",
         "Wordpress"
     ],
     "isWorking": true,
