@@ -6,11 +6,10 @@
     "🗓️": "34 anos",
     "🧑🏿‍🚀🚀": [
         "HTML",
-        "CSS",
         "SCSS",
         "Javascript",
-        "PHP",
         "React JS",
+        "PHP",
         "Wordpress"
     ],
     "isWorking": true,
