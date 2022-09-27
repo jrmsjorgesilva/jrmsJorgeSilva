@@ -1,10 +1,10 @@
 
 ```json
 {
-    "👨‍": "Jorge Roberto Machado da Silva",
-    "👨‍💻": "Web Developer",
-    "🗓️": "34 anos",
-    "🧑🏿‍🚀🚀": [
+    "name": "Jorge Roberto Machado da Silva",
+    "occupation": "Web Developer",
+    "age": "34 anos",
+    "stack": [
         "HTML",
         "SCSS",
         "Javascript",
