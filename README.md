@@ -3,7 +3,7 @@
 {
     "name": "Jorge Roberto Machado da Silva",
     "occupation": "Web Developer",
-    "age": "34 anos",
+    "age": "34",
     "stack": [
         "HTML",
         "SCSS",
@@ -11,7 +11,8 @@
         "React JS",
         "PHP",
         "Laravel",
-        "Wordpress"
+        "Wordpress",
+        "WooCommerce"
     ],
     "isWorking": true,
     "isOpenToNewOpportunities": true,
@@ -21,7 +22,7 @@
 
 ```javascript
 (function Welcome() {
-    return console.log('Any idea about the next project?');
+    return console.log('Qual será nosso novo projeto?');
 })();
 
 ```
