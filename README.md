@@ -22,7 +22,7 @@
 
 ```javascript
 (function Welcome() {
-    return console.log('Qual será nosso novo projeto?');
+    return console.log('What will be our next project?');
 })();
 
 ```
