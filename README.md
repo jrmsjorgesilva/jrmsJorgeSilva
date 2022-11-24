@@ -21,7 +21,7 @@
 ```
 
 ```javascript
-(function Welcome() {
+(function hireMe() {
     return console.log('What will be our next project?');
 })();
 
