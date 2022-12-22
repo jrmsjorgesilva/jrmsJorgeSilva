@@ -10,6 +10,7 @@
         "HTML5",
         "CSS3 / SCSS",
         "Javascript",
+        "typescript",
         "React JS",
         "PHP",
         "Laravel",
