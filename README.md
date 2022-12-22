@@ -3,7 +3,9 @@
 {
     "name": "Jorge Roberto Machado da Silva",
     "occupation": "Web Developer",
-    "age": "35",
+    "level": "Junior / Pleno",
+    "yearsOfExperience": 5
+    "age": 35,
     "stack": [
         "HTML",
         "SCSS",
