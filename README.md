@@ -15,7 +15,7 @@
         "WooCommerce"
     ],
     "isWorking": true,
-    "isOpenToNewOpportunities": true,
+    "isLookingForAJob": true,
 }
 
 ```
