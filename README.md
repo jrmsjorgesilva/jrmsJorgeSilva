@@ -7,8 +7,8 @@
     "yearsOfExperience": 5
     "age": 35,
     "stack": [
-        "HTML",
-        "SCSS",
+        "HTML5",
+        "CSS3 / SCSS",
         "Javascript",
         "React JS",
         "PHP",
