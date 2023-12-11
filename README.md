@@ -30,7 +30,7 @@
     return console.log('What will be our next project?');
 })();
 
-```html
+```
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
