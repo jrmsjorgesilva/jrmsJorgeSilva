@@ -8,7 +8,7 @@
     "age": 36,
     "stack": [
         "HTML5",
-        "CSS3 / SCSS",
+        "CSS3 / SCSS / Tailwind CSS",
         "Javascript",
         "Typescript",
         "React JS",
