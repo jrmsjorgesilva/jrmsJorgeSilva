@@ -2,7 +2,7 @@
 ```json
 {
     "name": "Jorge Roberto Machado da Silva",
-    "occupation": "Web Developer",
+    "occupation": "Desenvolvedor Web",
     "level": "Pleno",
     "yearsOfExperience": 7
     "age": 36,
