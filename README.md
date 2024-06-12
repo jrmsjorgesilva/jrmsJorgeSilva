@@ -27,7 +27,7 @@
 
 ```javascript
 (function hireMePlease() {
-    return console.log('What Will be Our Next Project?');
+    alert('What Will be Our Next Project?');
 })();
 
 ```
