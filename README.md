@@ -9,8 +9,7 @@
     "stack": [
         "HTML5",
         "CSS3 / SCSS / Tailwind CSS",
-        "Javascript",
-        "Typescript",
+        "Javascript / Typescript",
         "React JS",
         "PHP",
         "Laravel",
