@@ -11,10 +11,8 @@
         "CSS3 / SCSS / Tailwind CSS",
         "Javascript / Typescript",
         "React JS",
-        "PHP",
-        "Laravel",
-        "Wordpress",
-        "WooCommerce"
+        "PHP / Laravel",
+        "Wordpress / WooCommerce"
     ],
     "isWorking": true,
     "isAvailableForAJob": true,
