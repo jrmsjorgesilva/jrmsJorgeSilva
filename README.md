@@ -7,12 +7,29 @@
     "yearsOfExperience": 7,
     "age": 36,
     "stack": [
-        ["HTML5"],
-        ["CSS3", "SCSS", "Tailwind CSS"],
-        ["Javascript", "Typescript"],
-        ["React JS"],
-        ["PHP", "Laravel"],
-        ["Wordpress", "WooCommerce"]
+        [
+            "HTML5"
+        ],
+        [
+            "CSS3",
+            "SCSS",
+            "Tailwind CSS"
+        ],
+        [
+            "Javascript",
+            "Typescript"
+        ],
+        [
+            "React JS"
+        ],
+        [
+            "PHP",
+            "Laravel"
+        ],
+        [
+            "Wordpress",
+            "WooCommerce"
+        ]
     ],
     "isWorking": true,
     "isAvailableForAJob": true,
